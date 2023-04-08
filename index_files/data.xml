@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>Hidden</Name>
+				<NameUniv>Hidden</NameUniv>
+				<Visible>0</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{60481348-C451-4502-9DB0-E164EFE8C760}" Name="Executive" NameU="Executive" Master="0">
+					<Text>James Nelson &amp; Wife
+Born in 1815</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.559055118000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">James Nelson &amp; Wife</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1815</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{7427FA6F-DA57-422A-A56F-6074455B29DE}" Name="Position" NameU="Position" Master="3">
+					<Text>Augustus Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Augustus Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{96F4EBE9-DD46-4C03-BB14-BDCC07701E8F}" Name="Position.11" NameU="Position.11" Master="3">
+					<Text>Caroline Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Caroline Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{2494388F-3B9D-4F8D-BC07-E932506F5117}" Name="Position.16" NameU="Position.16" Master="3">
+					<Text>Daniel W. Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">8.858267716511811</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Daniel W. Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{96F3DAEE-E675-4451-8B13-9D8F3E8181D4}" Name="Position.21" NameU="Position.21" Master="3">
+					<Text>John Edward Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">John Edward Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{F611C063-DC28-46D8-9167-39C5E6BAB0F5}" Name="Position.26" NameU="Position.26" Master="3">
+					<Text>Rose Ella Thompson (born Bell)
+ </Text>
+					<XForm>
+						<PinX Unit="MM">7.677165354307087</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Rose Ella Thompson (born Bell)</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{E629F1C9-B3D5-4A8A-A5AF-6DE990A6D7F5}" Name="Position.31" NameU="Position.31" Master="3">
+					<Text>Virgil Bell
+(born 1842)</Text>
+					<XForm>
+						<PinX Unit="MM">2.952755905488190</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Virgil Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">(born 1842)</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{997A9559-90C3-470E-AFC1-58D043D07924}" Name="Dynamic connector" NameU="Dynamic connector" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="37" UniqueID="{1CC08409-20DD-4BD4-BD1F-C7A409A1E27F}" Name="Dynamic connector.37" NameU="Dynamic connector.37" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.019685039346458</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="38" UniqueID="{F3C8493E-4DA6-4AEC-BDE9-EA3A7AF0841B}" Name="Dynamic connector.38" NameU="Dynamic connector.38" Master="13">
+					<XForm>
+						<PinX Unit="MM">7.381889763755906</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="39" UniqueID="{7045C25E-2D3C-4D24-B4CA-452B73E539CF}" Name="Dynamic connector.39" NameU="Dynamic connector.39" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{340E5501-D1FE-4D42-87BC-A3D7833408DF}" Name="Dynamic connector.40" NameU="Dynamic connector.40" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.791338582653544</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="41" UniqueID="{5867FEE1-F4D3-4379-90CE-37D8202D16BC}" Name="Dynamic connector.41" NameU="Dynamic connector.41" Master="13">
+					<XForm>
+						<PinX Unit="MM">4.429133858244095</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="Page-2" NameU="Page-2">
+			<Shapes>
+				<Shape ID="1" UniqueID="{82258626-A7EF-44AF-8574-B853C85EC957}" Name="Executive" NameU="Executive" Master="0">
+					<Text>Virgil Bell &amp; Partner (Ann Eliza Smith)
+Ann Eliza Smith alias is Sophia Carolina Howell)</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.559055118000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Virgil Bell &amp; Partner (Ann Eliza Smith)</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Ann Eliza Smith alias is Sophia Carolina Howell)</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{2FF438E7-6688-4D95-B34E-EDAA0E972509}" Name="Manager" NameU="Manager" Master="2">
+					<Text>Ann Eliza Smith &amp; Unknown husband (last name Leggett)
+ </Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Ann Eliza Smith &amp; Unknown husband (last name Leggett)</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{B7391052-9584-4530-9092-E1B1F635C76E}" Name="Position" NameU="Position" Master="3">
+					<Text>Owen Howell
+Born 1857</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">6.023622047133858</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Owen Howell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born 1857</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{D6C28789-E0DF-4E2B-9962-623F18A044D9}" Name="Position.16" NameU="Position.16" Master="3">
+					<Text>Willis Leggett
+Born 1865</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">6.023622047133858</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Willis Leggett</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born 1865</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{5ACEE65F-EF80-4D85-A3C5-331F04ED3092}" Name="Position.21" NameU="Position.21" Master="3">
+					<Text>Daniel (Darnie) Webster Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Daniel (Darnie) Webster Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{509ADA13-0BE7-43E8-8E43-600F664B3EF0}" Name="Position.26" NameU="Position.26" Master="3">
+					<Text>Francis J. (Bell) McNeill
+ </Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Francis J. (Bell) McNeill</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{0BAAC855-16E2-4377-A6F9-590011C9561C}" Name="Dynamic connector" NameU="Dynamic connector" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{8015D4FA-661D-4E17-BA38-96EEEFF99AE5}" Name="Dynamic connector.32" NameU="Dynamic connector.32" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">6.377952755795276</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{18154377-C7AA-499D-95EA-26F5882424BC}" Name="Dynamic connector.33" NameU="Dynamic connector.33" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">6.377952755795276</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="34" UniqueID="{25CEE9FE-DE88-479F-A273-4FC24ABD34D1}" Name="Dynamic connector.34" NameU="Dynamic connector.34" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="35" UniqueID="{AB088926-DAFE-4B0C-AC66-FB116BA4DE0E}" Name="Dynamic connector.35" NameU="Dynamic connector.35" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="5" Name="Page-3" NameU="Page-3">
+			<Shapes>
+				<Shape ID="1" UniqueID="{811B8D0D-5501-458B-AC5B-73E863443D31}" Name="Executive" NameU="Executive" Master="0">
+					<Text>Virgil Bell &amp; Wife (Charity (Cherry) Sinclair)
+Born in 1842</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.559055118000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Virgil Bell &amp; Wife (Charity (Cherry) Sinclair)</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1842</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{88F90BF5-7C23-44A4-A1AE-54B5F6A90CA2}" Name="Position" NameU="Position" Master="3">
+					<Text>Charity Francis (Bell) McNeill
+ </Text>
+					<XForm>
+						<PinX Unit="MM">2.362204724385828</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Charity Francis (Bell) McNeill</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{C30354E4-17FF-4BFA-8B82-52D13350DC6B}" Name="Position.11" NameU="Position.11" Master="3">
+					<Text>James W. Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897614174</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">James W. Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{2F0EBF14-0E94-4731-BD25-D1DA7EF138EA}" Name="Position.16" NameU="Position.16" Master="3">
+					<Text>John E. Bell
+Born in 1873</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">John E. Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1873</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{4CA54677-5C53-4E09-97A5-F8BF9143E9AE}" Name="Position.21" NameU="Position.21" Master="3">
+					<Text>Marcus Bell
+Born in 1878</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Marcus Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1878</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{2FFC680D-5A41-4F29-875B-D9F88B82BF3D}" Name="Position.26" NameU="Position.26" Master="3">
+					<Text>Susan Century (Bell) Johnson
+Born in 1880</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Susan Century (Bell) Johnson</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1880</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{1266E928-2D0A-4105-82A2-9A8E034BF82E}" Name="Position.31" NameU="Position.31" Master="3">
+					<Text>Viola M. (Bell) Holmes
+Born in 1876</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Viola M. (Bell) Holmes</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1876</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{6B5A261E-1FA6-49BB-8578-F27DF135A45E}" Name="Position.36" NameU="Position.36" Master="3">
+					<Text>William Lee Bell
+Born in 1871 - Click Here</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">William Lee Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value Unit="STR">Born in 1871 - Click Here</Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{233ADC1E-A1EC-488A-91FC-9EC78C8E56A7}" Name="Dynamic connector" NameU="Dynamic connector" Master="13">
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="42" UniqueID="{5B835C0E-CCAA-4D43-9A98-6F2ECD2E7576}" Name="Dynamic connector.42" NameU="Dynamic connector.42" Master="13">
+					<XForm>
+						<PinX Unit="MM">7.677165354307087</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="43" UniqueID="{97ED2B76-2781-4F1E-9D38-5BC5473982FD}" Name="Dynamic connector.43" NameU="Dynamic connector.43" Master="13">
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="44" UniqueID="{20F494AC-1B68-4060-B175-23FB5B9CB203}" Name="Dynamic connector.44" NameU="Dynamic connector.44" Master="13">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="45" UniqueID="{D4762CCE-3FD1-4743-81A3-03C91AAFE302}" Name="Dynamic connector.45" NameU="Dynamic connector.45" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="46" UniqueID="{02EE57F9-150D-4E0D-A1F6-5B2B48F15C52}" Name="Dynamic connector.46" NameU="Dynamic connector.46" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="47" UniqueID="{30B6212D-C0F2-4820-9258-9625AD24D425}" Name="Dynamic connector.47" NameU="Dynamic connector.47" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="6" Name="Page-4" NameU="Page-4">
+			<Shapes>
+				<Shape ID="1" UniqueID="{E652F604-53C3-44BE-A733-6FCCBEEA8F86}" Name="Executive" NameU="Executive" Master="0">
+					<Text>Virgil Bell &amp; Wife (Easter Jane Sinclair)
+ </Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.559055118000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Virgil Bell &amp; Wife (Easter Jane Sinclair)</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{FCBFCCDF-1E6D-42B9-BE9B-A1F82273187F}" Name="Position" NameU="Position" Master="3">
+					<Text>Alexander A. Sinclair
+ </Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Alexander A. Sinclair</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{D64F7B55-E00E-45F6-83EE-9D7EAE59EDD7}" Name="Position.11" NameU="Position.11" Master="3">
+					<Text>Cary Jane (Bell) Hill
+ </Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Cary Jane (Bell) Hill</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{2F81E179-048A-4551-8D8F-426C5697A725}" Name="Position.16" NameU="Position.16" Master="3">
+					<Text>Dora Elizabeth Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Dora Elizabeth Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{0AE0412E-1FCE-4386-B657-1447C2D089CD}" Name="Position.21" NameU="Position.21" Master="3">
+					<Text>Green McL Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Green McL Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{F2DBE2DE-9617-4AD6-BFC6-07B73E13213C}" Name="Position.26" NameU="Position.26" Master="3">
+					<Text>James Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">James Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{987D7142-F797-4234-A405-1F1ACFEF6FEA}" Name="Position.31" NameU="Position.31" Master="3">
+					<Text>Mary F. Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">2.362204724385828</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Mary F. Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{DFC8AA32-E8CE-4B33-9F44-39251D5B132D}" Name="Position.36" NameU="Position.36" Master="3">
+					<Text>Wade H. Bell
+ </Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897614174</PinX>
+						<PinY Unit="MM">6.732283464456693</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Wade H. Bell</Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Title</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{15DD1939-80C9-406D-8264-DE62206940DB}" Name="Dynamic connector" NameU="Dynamic connector" Master="13">
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="42" UniqueID="{1CE0A7A5-7A71-4A07-8179-96FB8551635A}" Name="Dynamic connector.42" NameU="Dynamic connector.42" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="43" UniqueID="{AEF4C79C-9023-4AB5-A3EC-E695C9DFA258}" Name="Dynamic connector.43" NameU="Dynamic connector.43" Master="13">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="44" UniqueID="{62C2E94C-67C7-49EA-80A2-479BB39490B9}" Name="Dynamic connector.44" NameU="Dynamic connector.44" Master="13">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="45" UniqueID="{C029D8C7-6DE3-4BCE-A79B-22FFCEA36F83}" Name="Dynamic connector.45" NameU="Dynamic connector.45" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="46" UniqueID="{3F20E2DD-E248-4A44-AF21-73EB1F9301AC}" Name="Dynamic connector.46" NameU="Dynamic connector.46" Master="13">
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="47" UniqueID="{07BF0888-1C7D-4737-A77B-EDA65EEFA410}" Name="Dynamic connector.47" NameU="Dynamic connector.47" Master="13">
+					<XForm>
+						<PinX Unit="MM">7.677165354307087</PinX>
+						<PinY Unit="MM">7.086614173118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

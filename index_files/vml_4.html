@@ -1,0 +1,189 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" 
+ xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"/>
+<link rel="stylesheet" type="text/css" href="visio.css"/>
+<title>index</title>
+<style type="text/css">
+	 v\:* { behavior: url(#default#VML); }
+</style>
+
+<script src="vml_1.js" type="text/jscript" language="jscript"></script>
+
+<script type="text/jscript" language="jscript">
+
+	var pageID = 6;
+	var viewMgr = null;
+
+	if (parent.g_FirstPageToLoad != null && parent.g_FirstPageToLoad.length > 0)
+	{
+		if (parent.g_FileList[parent.g_CurPageIndex].PageID != pageID)
+		{
+			location.replace(parent.g_FileList[parent.g_CurPageIndex].PriImage);
+		}
+
+		parent.g_FirstPageToLoad = null;
+	}
+
+	function getPNZ()
+	{
+		var rawHTML = VMLDiv.innerHTML;
+		var strReturn = ""
+		
+		strReturn = rawHTML.slice( rawHTML.indexOf( '<v:group' ), rawHTML.indexOf( "</v:shape>" ) );
+		strReturn += "</v:shape></v:group>\n";
+				
+		return strReturn;
+	}
+	
+	function load()
+	{
+		viewMgr = new parent.CViewMgr("ConvertedImage", "arrowDiv");
+
+		viewMgr.put_Location = ViewMgrSetVMLLocation;
+
+
+		viewMgr.visBBoxLeft = 1.884764;
+		viewMgr.visBBoxRight = 9.926260;
+		viewMgr.visBBoxBottom = 6.491063;
+		viewMgr.visBBoxTop = 7.918386;
+
+		viewMgr.Zoom = VMLZoomChange;
+		viewMgr.setView= VMLSetView;
+
+		viewMgr.SupportsDetails = true;
+		viewMgr.SupportsSearch = true;
+
+		parent.viewMgr = viewMgr;
+
+		fit();
+	}
+
+	function unload()
+	{
+		viewMgr = null;
+		parent.viewMgr = null;
+	}
+
+	function fit()
+	{
+		if(parent.frmToolbar)
+		{
+			if (parent.g_WidgetsLoaded)
+			{
+				var zoom100 = parent.frmToolbar.document.all('a100');
+				if (zoom100)
+				{
+					parent.viewMgr.PostZoomProcessing = PostZoomProcessing;
+					zoom100.click();
+				}
+				else
+				{
+					parent.viewMgr.PostZoomProcessing = PostZoomProcessing;
+					viewMgr.Zoom(100);
+				}
+			}
+			else
+			{
+				window.setTimeout("fit()", 500);
+			}
+		}	
+		else
+		{
+			parent.viewMgr.PostZoomProcessing = PostZoomProcessing;
+			viewMgr.Zoom(100);
+		}
+	}
+
+	function PostZoomProcessing (newZoomLevel)
+	{
+		parent.viewMgr.PostZoomProcessing = null;
+		var pageIndex = parent.PageIndexFromID (pageID);
+		parent.viewMgr.getPNZ = getPNZ;
+		parent.CurPageUpdate (pageIndex);
+	}
+
+
+	
+	var isUpLevel = parent.isUpLevel;
+	var OnShapeClick = parent.OnShapeClick;
+	var OnShapeKey = parent.OnShapeKey;
+	var UpdateTooltip = parent.UpdateTooltip;
+	var clickMenu = parent.clickMenu;
+	var toggleMenuDiv = parent.toggleMenuDiv;
+	var toggleMenuLink = parent.toggleMenuLink;
+	var GoToPage = parent.GoToPage;
+
+	window.onload = load;
+	window.onunload = unload;
+	document.onclick = clickMenu;
+
+
+
+
+</script>
+
+</head>
+
+<body style="MARGIN:10px" onresize="VMLOnResize();" onscroll="VMLOnScroll();">
+
+<div id="arrowdiv" style="position:absolute;top:0;left:0;visibility:hidden;z-index:5">
+<img id="arrowgif" alt="Shows the location of the selected shape" src="arrow.gif"/>
+</div>
+
+<div id="menu1" onclick="clickMenu()" class="hlMenu">
+</div>
+
+
+
+
+<div id="VMLDiv" >
+
+
+<v:group  id="ConvertedImage" style="width:22.535886in;height:4.000000in;position:absolute;visibility=hidden;" coordSize="11268,2000" coordOrigin="-1000,-1000" >
+
+<v:shapetype 
+  id="VISSHAPE"
+  target="_parent"
+  coordsize="11268,2000"
+  coordorigin="-1000,-1000"
+  stroked="f"
+  strokecolor="red"
+  filled="t"
+>
+<v:fill opacity="0.0"/>
+</v:shapetype>
+
+
+<v:shape style="top:-1000.0;left:-1000.0;width:11267.9;height:2000.0;position:absolute" coordSize="11268,2000" coordOrigin="-1000,-1000" >
+<v:imagedata src="vml_4.emz"/>
+</v:shape>
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Virgil Bell &#38; Wife (Easter Jane Sinclair)" origTitle="Virgil Bell &#38; Wife (Easter Jane Sinclair)"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 3680,-34 l 5588,-34 l 5588,-937 l 3680,-937 l 3680,-34xe" onmouseover="UpdateTooltip(this,6,1)" onclick="OnShapeClick(6,1)" onfocus="UpdateTooltip(this,6,1);" onkeyup="OnShapeKey(6,1)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Alexander A. Sinclair" origTitle="Alexander A. Sinclair"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 677,972 l 1996,972 l 1996,324 l 677,324 l 677,972xe" onmouseover="UpdateTooltip(this,6,6)" onclick="OnShapeClick(6,6)" onfocus="UpdateTooltip(this,6,6);" onkeyup="OnShapeKey(6,6)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Cary Jane (Bell) Hill" origTitle="Cary Jane (Bell) Hill"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 2326,972 l 3645,972 l 3645,324 l 2326,324 l 2326,972xe" onmouseover="UpdateTooltip(this,6,11)" onclick="OnShapeClick(6,11)" onfocus="UpdateTooltip(this,6,11);" onkeyup="OnShapeKey(6,11)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Dora Elizabeth Bell" origTitle="Dora Elizabeth Bell"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 7272,972 l 8591,972 l 8591,324 l 7272,324 l 7272,972xe" onmouseover="UpdateTooltip(this,6,16)" onclick="OnShapeClick(6,16)" onfocus="UpdateTooltip(this,6,16);" onkeyup="OnShapeKey(6,16)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Green McL Bell" origTitle="Green McL Bell"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 3975,972 l 5293,972 l 5293,324 l 3975,324 l 3975,972xe" onmouseover="UpdateTooltip(this,6,21)" onclick="OnShapeClick(6,21)" onfocus="UpdateTooltip(this,6,21);" onkeyup="OnShapeKey(6,21)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="James Bell" origTitle="James Bell"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 5623,972 l 6942,972 l 6942,324 l 5623,324 l 5623,972xe" onmouseover="UpdateTooltip(this,6,26)" onclick="OnShapeClick(6,26)" onfocus="UpdateTooltip(this,6,26);" onkeyup="OnShapeKey(6,26)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Mary F. Bell" origTitle="Mary F. Bell"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m -971,972 l 348,972 l 348,324 l -971,324 l -971,972xe" onmouseover="UpdateTooltip(this,6,31)" onclick="OnShapeClick(6,31)" onfocus="UpdateTooltip(this,6,31);" onkeyup="OnShapeKey(6,31)"/> 
+
+<v:shape type="#VISSHAPE"   tabindex="1" title="Wade H. Bell" origTitle="Wade H. Bell"  style="top:-1000;left:-1000;width:11268;height:2000;position:absolute" path=" m 8920,972 l 10239,972 l 10239,324 l 8920,324 l 8920,972xe" onmouseover="UpdateTooltip(this,6,36)" onclick="OnShapeClick(6,36)" onfocus="UpdateTooltip(this,6,36);" onkeyup="OnShapeKey(6,36)"/> 
+
+</v:group>
+
+
+
+</div>
+
+
+
+</body>
+</html>
+
